@@ -1,4 +1,4 @@
 # COBOL
 
 A repo for simple COBOL programs.
-Used docker.
+Used docker, made with VIM.
